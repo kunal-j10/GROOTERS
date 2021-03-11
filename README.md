@@ -3,6 +3,11 @@ Grooters is a Varanasi based startup, that links all the plant nursery's in vara
 <br>
 ### This repo contains the User Interface of the grooters app.   
 <br>
+### API Level :- 29
+<br>
+### Android :- 10
+<br>
+### Build Tools :- 29.0.2
 
 ## Tools and Technologies used :-<br>
 <li> React-Native
