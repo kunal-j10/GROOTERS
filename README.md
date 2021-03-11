@@ -12,5 +12,11 @@ Grooters is a Varanasi based startup, that links all the plant nursery's in vara
 <br>
 
 ## User Interface :-
-<br>
-<img src="https://github.com/kunal-j10/GROOTERS/blob/main/dataBase/UI/HomePage.jpeg" width="48">
+<div align="center">
+
+<img   src="https://github.com/kunal-j10/GROOTERS/blob/main/dataBase/UI/HomePage.jpeg"        width="210"   align="left">
+<img   src="https://github.com/kunal-j10/GROOTERS/blob/main/dataBase/UI/Insideshop.jpeg"      width="210"   align="left" >
+<img   src="https://github.com/kunal-j10/GROOTERS/blob/main/dataBase/UI/ReviewDetails.jpeg"   width="210"   align="left">
+<img   src="https://github.com/kunal-j10/GROOTERS/blob/main/dataBase/UI/LastPage.jpeg"        width="210"   align="left">
+
+</div>
